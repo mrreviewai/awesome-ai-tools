@@ -2,15 +2,18 @@
 
 > A curated list of the best AI tools across 32 categories — with honest ratings, real pricing, and zero paid rankings.
 
-**326+ tools** · **32 categories** · Updated daily · No paid rankings · Ratings by [mrreviewai.com](https://mrreviewai.com)
+326+ tools · 32 categories · Updated daily · No paid rankings · Ratings by [mrreviewai.com](https://mrreviewai.com)
 
-> ⚡ **Not sure which tool fits you?** [Answer 3 questions → get your #1 match in 60s](https://mrreviewai.com/find/) — free, no signup.
+> ⚡ Not sure which tool fits you? [Answer 3 questions → get your #1 match in 60s](https://mrreviewai.com/find/) — free, no signup.
+
+> 🏠 Every category below links to its full ranked list on [mrreviewai.com](https://mrreviewai.com) — live data, honest Trust Scores, never pay-to-rank.
+> ⭐ If this list helps, star the repo so other builders can find it.
 
 ---
 
 ## ⭐ Best Completely Free AI Tools
 
-*Great tools with no credit card required — ever.*
+Great tools with no credit card required — ever.
 
 | Tool | Category | Why it's great |
 |------|----------|----------------|
@@ -29,17 +32,17 @@
 
 ## 🤖 MCP-Compatible Tools
 
-*These tools have [MCP servers](https://modelcontextprotocol.io) — use them directly inside Claude, Cursor, or any MCP-enabled AI assistant.*
+These tools have [MCP servers](https://modelcontextprotocol.io) — use them directly inside Claude, Cursor, or any MCP-enabled AI assistant.
 
 | Tool | MCP Install | What it does inside your AI |
 |------|-------------|------------------------------|
-| [mrreviewai](https://mrreviewai.com) | `npx mrreviewai-mcp` | Search 326+ AI tools by category, rating, pricing |
-| [Browserbase](https://browserbase.com) | `npx @browserbasehq/mcp` | Control a real browser from your AI |
-| [Stripe](https://stripe.com) | `npx @stripe/mcp` | Manage payments from your AI |
-| [GitHub](https://github.com) | `npx @modelcontextprotocol/server-github` | Manage repos, issues, PRs from AI |
-| [Slack](https://slack.com) | `npx @modelcontextprotocol/server-slack` | Read/write Slack from your AI |
-| [Notion](https://notion.so) | `npx @notionhq/notion-mcp-server` | Read/write Notion from your AI |
-| [Postgres](https://postgresql.org) | `npx @modelcontextprotocol/server-postgres` | Query your database from AI |
+| [mrreviewai](https://mrreviewai.com) | npx mrreviewai-mcp | Search 326+ AI tools by category, rating, pricing |
+| [Browserbase](https://browserbase.com) | npx @browserbasehq/mcp | Control a real browser from your AI |
+| [Stripe](https://stripe.com) | npx @stripe/mcp | Manage payments from your AI |
+| [GitHub](https://github.com) | npx @modelcontextprotocol/server-github | Manage repos, issues, PRs from AI |
+| [Slack](https://slack.com) | npx @modelcontextprotocol/server-slack | Read/write Slack from your AI |
+| [Notion](https://notion.so) | npx @notionhq/notion-mcp-server | Read/write Notion from your AI |
+| [Postgres](https://postgresql.org) | npx @modelcontextprotocol/server-postgres | Query your database from AI |
 
 > 💡 Add mrreviewai MCP to find the right AI tool for any task — right inside Claude or Cursor:
 > ```bash
@@ -50,7 +53,7 @@
 
 ## How We Rate
 
-Every tool is scored by **Trust Score = 60% quality rating + 40% popularity**.
+Every tool is scored by Trust Score = 60% quality rating + 40% popularity.
 
 - ✅ Independent — we never accept payment to change a ranking
 - ✅ Updated daily by AI Agent scanning pricing and feature changes
@@ -59,34 +62,36 @@ Every tool is scored by **Trust Score = 60% quality rating + 40% popularity**.
 
 ---
 
-## Contents
+## 📊 Browse Ranked Lists by Category
 
-- [AI Agents](#ai-agents)
-- [Audio & Voice](#audio--voice)
-- [Chatbot](#chatbot)
-- [Code & Developer](#code--developer)
-- [Customer Service](#customer-service)
-- [Design](#design)
-- [E-Commerce](#e-commerce)
-- [Education](#education)
-- [Email](#email)
-- [Finance](#finance)
-- [HR](#hr)
-- [Image & Image Generation](#image--image-generation)
-- [Legal](#legal)
-- [Marketing](#marketing)
-- [No-code & Automation](#no-code--automation)
-- [Presentation](#presentation)
-- [Productivity](#productivity)
-- [Research & Analytics](#research--analytics)
-- [Sales](#sales)
-- [Security](#security)
-- [SEO](#seo)
-- [Social Media](#social-media)
-- [Transcription](#transcription)
-- [Translation](#translation)
-- [Video](#video)
-- [Writing](#writing)
+Click any category for its full, always-fresh ranked list on mrreviewai.com (sample tables also below).
+
+- [AI Agents](https://mrreviewai.com/ai-tools/ai-agents/)
+- [Audio & Voice](https://mrreviewai.com/ai-tools/audio/)
+- [Chatbot](https://mrreviewai.com/ai-tools/chatbot/)
+- [Code & Developer](https://mrreviewai.com/ai-tools/code/)
+- [Customer Service](https://mrreviewai.com/ai-tools/customer-service/)
+- [Design](https://mrreviewai.com/ai-tools/design/)
+- [E-Commerce](https://mrreviewai.com/ai-tools/e-commerce/)
+- [Education](https://mrreviewai.com/ai-tools/education/)
+- [Email](https://mrreviewai.com/ai-tools/email/)
+- [Finance](https://mrreviewai.com/ai-tools/finance/)
+- [HR](https://mrreviewai.com/ai-tools/hr/)
+- [Image & Image Generation](https://mrreviewai.com/ai-tools/image-generation/)
+- [Legal](https://mrreviewai.com/ai-tools/legal/)
+- [Marketing](https://mrreviewai.com/ai-tools/marketing/)
+- [No-code & Automation](https://mrreviewai.com/ai-tools/no-code/)
+- [Presentation](https://mrreviewai.com/ai-tools/presentation/)
+- [Productivity](https://mrreviewai.com/ai-tools/productivity/)
+- [Research & Analytics](https://mrreviewai.com/ai-tools/research/)
+- [Sales](https://mrreviewai.com/ai-tools/sales/)
+- [Security](https://mrreviewai.com/ai-tools/security/)
+- [SEO](https://mrreviewai.com/ai-tools/seo/)
+- [Social Media](https://mrreviewai.com/ai-tools/social-media/)
+- [Transcription](https://mrreviewai.com/ai-tools/transcription/)
+- [Translation](https://mrreviewai.com/ai-tools/translation/)
+- [Video](https://mrreviewai.com/ai-tools/video/)
+- [Writing](https://mrreviewai.com/ai-tools/writing/)
 
 ---
 
@@ -333,12 +338,16 @@ Every tool is scored by **Trust Score = 60% quality rating + 40% popularity**.
 
 ## Ratings & Data
 
-All ratings sourced from **[mrreviewai.com](https://mrreviewai.com)** — an independent AI tool review platform.
+All ratings sourced from [mrreviewai.com](https://mrreviewai.com) — an independent AI tool review platform.
 
-- **Trust Score formula:** 60% quality rating + 40% popularity — no paid rankings
-- **Live data API:** [mrreviewai.com/wp-json/mrai/v1/tools](https://mrreviewai.com/wp-json/mrai/v1/tools)
-- **Not sure which tool to use?** [Answer 3 questions → get your perfect match in 60s](https://mrreviewai.com/find/)
-- **MCP Server for AI assistants:** `npx mrreviewai-mcp`
+- Trust Score formula: 60% quality rating + 40% popularity — no paid rankings
+- Live data API: [mrreviewai.com/wp-json/mrai/v1/tools](https://mrreviewai.com/wp-json/mrai/v1/tools)
+- Not sure which tool to use? [Answer 3 questions → get your perfect match in 60s](https://mrreviewai.com/find/)
+- MCP Server for AI assistants: npx mrreviewai-mcp
+
+## ⭐ Found this useful?
+
+Star this repo so other builders can find it — and explore the full, always-fresh directory at [mrreviewai.com](https://mrreviewai.com): 326+ AI tools, honest Trust Scores, 100% free, no signup.
 
 ## Contributing
 
@@ -347,6 +356,4 @@ All ratings sourced from **[mrreviewai.com](https://mrreviewai.com)** — an ind
 
 ---
 
-*Maintained by [mrreviewai.com](https://mrreviewai.com) · [@MrReviewAi on X](https://x.com/MrReviewai)*
-
-v
+Maintained by [mrreviewai.com](https://mrreviewai.com) · [@MrReviewAi on X](https://x.com/MrReviewai)
