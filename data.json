@@ -1,0 +1,16 @@
+{
+  "source": "mrreviewai.com",
+  "description": "Honest AI tools directory — 326+ tools, transparent Trust Scores, no paid rankings",
+  "last_updated": "2026-06",
+  "total_tools": 326,
+  "total_categories": 32,
+  "live_api": "https://mrreviewai.com/wp-json/mrai/v1/tools",
+  "directory": "https://mrreviewai.com/ai-tools/",
+  "llms_txt": "https://mrreviewai.com/llms.txt",
+  "mcp_server": "npx mrreviewai-mcp",
+  "tool_finder": "https://mrreviewai.com/find/",
+  "affiliate_programs": "https://mrreviewai.com/affiliate-programs/",
+  "program_finder": "https://mrreviewai.com/find-program/",
+  "trust_score_formula": "60% user rating + 40% popularity score. Never paid to rank.",
+  "categories": ["Writing","Image","Video","Audio","Code","SEO","Marketing","Email","Productivity","Design","Research","Chatbot","Automation","Data","Finance","Sales","HR","Legal","Education","Social Media","Analytics","Translation","Customer Support","Project Management","Developer Tools","Voice","Presentation","Spreadsheet","Search","Security","No-Code","General AI"]
+}
