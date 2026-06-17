@@ -205,6 +205,7 @@ Click any category for its full, always-fresh ranked list on mrreviewai.com (sam
 | [DALL-E 3](https://openai.com/dall-e-3) | ⭐ 4.5 | Freemium | OpenAI's image generator with superior prompt adherence via ChatGPT. |
 | [Stable Diffusion](https://stability.ai) | ⭐ 4.5 | Free | Open-source image generation model — run locally or via API. |
 | [Ideogram](https://ideogram.ai) | ⭐ 4.5 | Freemium | AI image generator excelling at typography and text-in-image. |
+| [Seedream AI Studio](https://seedream4.video/) | ⭐ 4.6 | Freemium | ByteDance's multi-model image platform (Seedream 5.0/4.5/4.0) ranked #1 in AI Image Arena; supports 10 reference images + video via Kling 2.1. |
 
 ## Legal
 
